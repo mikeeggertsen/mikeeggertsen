@@ -7,8 +7,6 @@
 
 👨‍💻 All of my projects are available [here](https://mikeeggertsen.com)
 
-📝 I try to write articles [here](https://mikeeggertsen.com/blog)
-
 📫 How to reach me **contact@mikeeggertsen.com**
 
 <h3 align="left">Connect with me:</h3>
